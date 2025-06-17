@@ -158,3 +158,96 @@ Accuracy: Minimizes the risk of design-to-code mismatches by providing exact spe
 Collaboration: Facilitates smoother communication between designers and developers by using shared design language.
 
 Scalability: Makes it easier to extend the design system or update styles project-wide without rework.
+
+
+---
+👥 Project Roles and Responsibilities
+
+To ensure smooth collaboration and efficient progress, each team member is assigned a clear role with defined responsibilities. The roles and their contributions are outlined below:
+
+🧭 Project Manager
+
+Oversees the overall project timeline and deliverables
+
+Coordinates between teams and ensures smooth communication
+
+Tracks progress and resolves blockers to keep the project on schedule
+
+Ensures that project goals align with stakeholder expectations
+
+
+💻 Frontend Developers
+
+Build and maintain the user interface using HTML, CSS, JavaScript (React)
+
+Develop responsive, accessible, and reusable UI components
+
+Integrate frontend components with backend APIs
+
+Ensure cross-browser compatibility and mobile-first design principles
+
+
+🔧 Backend Developers
+
+Design and implement RESTful APIs
+
+Manage the database schema and business logic
+
+Handle authentication, data validation, and error handling
+
+Ensure performance optimization and security best practices on the server side
+
+
+🎨 Designers
+
+Create mockups and high-fidelity prototypes in Figma
+
+Define UI elements, color palettes, typography, and component behavior
+
+Ensure design consistency and user-friendly experiences
+
+Collaborate closely with frontend developers to bring designs to life
+
+
+🧪 QA/Testers
+
+Write test cases and conduct manual and automated testing
+
+Identify, report, and verify bugs and issues
+
+Ensure functionality, usability, and compatibility across devices
+
+Validate that user flows work as expected and meet the requirements
+
+
+🚀 DevOps Engineers
+
+Set up and maintain deployment pipelines (CI/CD)
+
+Manage hosting, server infrastructure, and environment configurations
+
+Monitor app performance, uptime, and logs
+
+Ensure seamless and secure deployment of frontend and backend code
+
+
+📌 Product Owner
+
+Defines the product vision and feature priorities
+
+Translates stakeholder needs into actionable requirements
+
+Maintains the product backlog and helps guide development direction
+
+Represents the user perspective and ensures the value delivery of each feature
+
+
+🌀 Scrum Master
+
+Facilitates Agile ceremonies (daily standups, sprint planning, retrospectives)
+
+Removes impediments that block team progress
+
+Promotes Agile best practices and team accountability
+
+Supports continuous improvement within the team
