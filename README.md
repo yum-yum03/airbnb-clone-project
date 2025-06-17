@@ -251,3 +251,57 @@ Removes impediments that block team progress
 Promotes Agile best practices and team accountability
 
 Supports continuous improvement within the team
+
+---
+
+🧩 UI Component Patterns
+
+To ensure reusability, maintainability, and design consistency across the Airbnb Clone project, we are building modular UI components that can be reused throughout the application. Below are the core components planned for development:
+
+🔝 Navbar
+
+The navigation bar is a key component that appears on every page and allows users to navigate through the platform easily.
+
+Key Elements:
+
+Logo
+
+Search bar
+
+User account menu (login/logout/profile)
+
+Responsive mobile menu
+
+
+🏡 Property Card
+
+The Property Card is used in the property listing grid and displays essential information about each rental listing.
+
+Key Elements:
+
+Featured image
+
+Title and location
+
+Price per night
+
+Star rating and number of reviews
+
+Favorite (heart) icon
+
+Clickable to view detailed property page
+
+
+👣 Footer
+
+The footer provides site-wide links and essential information, displayed at the bottom of every page.
+
+Key Elements:
+
+Navigation links (About, Help, Terms, etc.)
+
+Company information
+
+Social media icons
+
+Copyright
