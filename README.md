@@ -116,7 +116,7 @@ Clear navigation, responsive layouts, and an intuitive structure are not just ni
 
 ---
 
-🖌️ more UI/UX planning 
+🖌️ UI/UX Design Planning
 
 To ensure consistency across the application, we referenced the Figma file for standardized color styles and typography used in the design mockups.
 
